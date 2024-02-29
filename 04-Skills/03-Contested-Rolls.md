@@ -1,4 +1,4 @@
-# Contested rolls
+# Contested checks
 
 Qualities of success appear most frequently when comparing opposing skill checks—if both checks succeed, the roll with the higher degree of success is the winner.
 

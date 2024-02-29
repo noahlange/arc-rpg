@@ -1,18 +1,6 @@
-# Basics
-
-Arc has a small number of peculiar mechanics players should be familiar with before starting.
-
-# Icons
-
-A variety of icons are used throughout Arc. The shape of the icon indicates the type of thing being represented: scores and resources are surrounded by circles (e.g., :health:, :alloy:), hazards by triangles (:ballistic:, :thermal:) and item stats by cogs (:cost:, :size:). A comprehensive list of icons used in Arc, along with their meaning and usage, is presented in Appendix III.
-
-# Dice
-
-Both the gamemaster and each player of Arc should have access to at least one full set of polyhedral dice: :d4:, :d6:, :d8:, :d10:, :d12: and :d20:. When representing a the result of a roll (e.g., roll 2d8 for damage) standard dice notation is used. When representing a step (e.g., “ vs. ”, “roll :d20: vs. Small Guns”), the icon is used instead.
-
 # Rank & progress
 
-Rank & Progress (RP) scores are used to compare numbers on a small relative scale while still enabling constant, incremental progression ideal for longer campaigns.
+Rank & Progress (RP) scores are used to handle numbers within a limited range while still enabling constant, incremental progression. Systems with scores that max out at smaller numbers (say, 20) tend to be more ergonomic than the full range of 1%-100%, opportunities for character advancement tend to be much less frequent, albeit with greater, more dramatic effect.
 
 Every RP score is composed of two numbers, a rank and a progress. When written, these are joined with a dot (•)—and in the case of a progress of 0, the latter number may be omitted entirely.
 
@@ -33,7 +21,3 @@ When an RP score is at its maximum progress value and gains another point, its r
 > An object, including several attached doohickeys, has a material cost of 3⋅0. Removing one doohickey with a cost of (0⋅1) from the object reduces the overall material cost from 3⋅0 to 2⋅2.
 
 Determining ranks from significant numbers of progress points (e.g., 14) can prove tedious. The table in Appendix II lists the corresponding ranks for progress points ranging from 1 to 695.
-
-## Battlemaps
-
-Combat in Arc is best experienced on a standard 1” battle grid.

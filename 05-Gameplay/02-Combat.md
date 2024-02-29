@@ -6,15 +6,15 @@ Combat is a thing.
 
 ## Combat sequence
 
-1. Determine which side, if any, has the element of surprise.
+1. Determine which combatants have the element of surprise, if any. Characters with the element of surprise roll initiative separately and take one turn before the rest join combat.
 2. Roll initiative—AGI ×2 vs. TN :d20:. Before rolling, players can appeal the DM with a relevant justification and, if successful, swap out one AGI for another stat of their choice.
-3. Characters who succeed take turns in ascending DoS/failures descending DoS.
+3. Characters who succeed take turns in ascending order, followed by those who failed—again in ascending order.
 4. Each character receives action points for their turn, equal to their :speed:.
 5. When given initiative, each character takes their turn by spending AP. They can move, make attacks or perform any other combat actions. Upon starting their turn, players can choose to ‘hold’ until a specific later place in initiative order.
    - Characters can react to other rolls by spending AP from their current turn, or by spending :speed: if they have no remaining AP.
 6. Once all combatants have acted:
    1. roll :wound: dice, subtract from :health:
-   2. characters at or below 0 :health: fall unconscious, at or below -CON die.
+   2. characters at or below 0 :health: fall unconscious; those at or below -CON die.
 7. The next turn begins from the start of initiative order. Initiative is not re-rolled.
 
 ## Order of attack

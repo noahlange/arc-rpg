@@ -98,7 +98,7 @@ To restore HP or remove :wound: dice, characters take an **Aid** action. The exa
 >
 > The next round begins; Dick opts to hold initiative until Jane has finished. Jane spends 5 AP to finish applying the medkit. She rolls Medicine 13º5 and succeeds with +3º. The medkit restores 1d12 = 7 + 3 = 10 HP and removes 1d4 = 1 + 3 = wound steps. Dick’s health is restored to 16; his :d12: wound is reduced to :d4:. He’s still bleeding, but is in much better shape than before. Jane, with 3 AP remaining, draws her weapon.
 >
-> Dick, having held his turn, takes out a bandage (2 AP) and attempts to apply it (4 AP). He fails his Medicine 5º5 test with -1º and somehow manages to make the wound worse, increasing it to :d6:.
+> Dick, having held his turn, takes out a bandage (2 AP) and attempts to apply it (4 AP). He fails his Medicine 5º5 check with -1º and somehow manages to make the wound worse, increasing it to :d6:.
 >
 > Jane rolls her eyes. Nice one, Dick.
 
