@@ -1,0 +1,9 @@
+extends: substitution
+message: Did you mean %s?
+ignorecase: false
+action:
+  name: replace
+swap:
+  "etc.": "&c"
+  "a RP": "an RP"
+  "A RP": "An RP"

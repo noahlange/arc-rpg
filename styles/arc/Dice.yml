@@ -1,0 +1,13 @@
+extends: substitution
+message: "When referring to a die step instead of a roll value, use the icon (%s)."
+ignorecase: false
+action:
+  name: replace
+swap:
+  "[\\s]d4": ":d4:"
+  "[\\s]d6": ":d6:"
+  "[\\s]d8": ":d8:"
+  "[\\s]d10": ":d4:"
+  "[\\s]d%": ":dpct:"
+  "[\\s]d12": ":d12:"
+  "[\\s]d20": ":d20:"

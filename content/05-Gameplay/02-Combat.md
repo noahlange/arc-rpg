@@ -20,7 +20,7 @@ Combat is a thing.
 ## Order of attack
 
 1. Pick a relevant weapon skill and roll :d20: vs. TN, optionally adding a focus bonus and accuracy penalties/bonuses. A roll of 1 is an automatic hit. A roll of 20 is an automatic failure. A failed check ends the current action.
-   - If the attack roll meets or exceeds the first number of a weapon’s :failure:, a jam (though not necessarily a miss) is threatened. Roll d20 again; if you meet or succeed the second number, your weapon jams and must be cleared before making another ranged attack.
+   - If the attack roll meets or exceeds the first number of a weapon’s :failure:, a jam (though not necessarily a miss) is threatened. Roll :d20: again; if you meet or succeed the second number, your weapon jams and must be cleared before making another ranged attack.
 2. If the target of the attack is aware of danger and chooses to do so, they may spend 1 AP to perform an Evade (React) skill check. If the defender’s skill check is successful and their degree of success meets or exceeds the attacker’s, the attack misses. Otherwise, the attack is successful.
 3. If the attack is successful, determine the attack’s degree (º) using its weapon’s :spread:. The lower of that and its weapon's :rof: determines the number of hits on target.
 4. If the target is armored and their armor protects against the attack's damage type, roll each hit sequentially. All hits that deal less damage than sum of the target’s :armor: deal no damage. Each hit that exceeds that sum reduces the highest remaining :armor: step by 1, until no hits remain or the last :armor: die is dropped.

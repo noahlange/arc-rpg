@@ -6,7 +6,7 @@
 
 ## What Arc is
 
-Arc is a role-playing game. If you don’t already know what that is, I heartily recommend reading the Wikipedia article and confirm that medium is up your alley before moving forward. If you do, then know that Arc is indebted to WotC’s d20, John Harper’s Forged in the Dark as well as Greg Stafford and Lynn Willis’ Basic Role-Playing.
+Arc is a role-playing game. If you don’t already know what that is, I heartily recommend reading the Wikipedia article and confirm that medium is up your alley before moving forward. If you do, then know that Arc is indebted to WotC’s :d20:, John Harper’s Forged in the Dark as well as Greg Stafford and Lynn Willis’ Basic Role-Playing.
 
 Arc is a cyberpunk game.
 

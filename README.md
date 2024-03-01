@@ -33,3 +33,7 @@ There's an icon font (`arc.ttf`) living in the Unicode PUA between `u+f100` and 
 | f150 - f160 | item stats               |
 
 ![font repertoire](font.png)
+
+## Vale
+
+It uses Vale for linting. Once you've installed that and cloned the repo, run <kbd>vale sync</kbd> to download package dependencies.
