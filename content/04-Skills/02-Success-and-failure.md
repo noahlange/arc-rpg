@@ -1,4 +1,4 @@
-# Degrees of success
+# Success and failure
 
 "Yes" or "no" is usually a sufficient answer to the question "did the skill check succeed?". It usually falls short when the _quality_ of a success or failure is relevant to the situation—most commonly, when characters make rolls in contest.
 
@@ -10,7 +10,7 @@ When relevant, degrees of failure and success are notated as `±xº`, where ± i
 
 > _Example:_ Gus rolled Software -2º — a failure with a degree of 2.
 
-A higher degree of success corresponds to a higher quality of success. But since a high skill level is required in order for a high-value roll to _be_ a success, only the truly skilled can obtain more than one or two degrees of success.
+A higher degree of success indicates a higher _quality_ of success. But since a high skill level is required in order for a high-value roll to succeed, only the truly skilled can obtain more than one or two degrees of success.
 
 > _Example:_ Robin Hood (Archery 20) faces the Sheriff of Nottingham (Archery 16) and Friar Tuck (Archery 8). Friar Tuck succeeds with a 2 (+1º), striking one of the target's outermost rings. The Sheriff succeeds near the peak of his ability at 15, or +4º, and hits the bullseye. Robin Hood rolls 20 (+5º), splitting the Sheriff's arrow with great éclat.
 

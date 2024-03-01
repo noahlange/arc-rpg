@@ -2,9 +2,7 @@
 
 Skills are Rank & Progress scores and follow the same rules as others.
 
-When a character’s skill is tested—or **checked**—they can choose whether or not to apply a relevant focus. If so, the rank of the skill and its focus are summed. If not, the skill rank alone is used.
-
-For normal conditions, that value is the so-called Target Number (TN) for the skill check. The TN is compared to the result of a :d20: roll. Rolling at or below a skill check’s TN is a success—the character accomplishes what they set out to do. Rolling above the TN is a failure, and the character's attempt fails.
+When a character’s skill is tested—or **checked**—they can choose whether or not to apply a relevant focus. If so, the rank of the skill and its focus are summed. If not, the skill rank alone is used. That value (in addition to any circumstantial modifiers) is the so-called Target Number (TN) for the skill check. Upon rolling a :d20:, the result is compared to the TN. Rolling at or below the TN is a success; the character accomplishes what they set out to do. Rolling _above_ the TN is a failure, and the character's attempt does not succeed.
 
 > Example: Foo shoots (Guns 16) at Bar, who attempts to dodge (Evade 12). Foo rolls a 4 and succeeds. Bar rolls 13 and fails. Foo hits Bar.
 
