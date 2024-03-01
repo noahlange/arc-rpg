@@ -22,12 +22,12 @@ Shape-memory alloy wires can be tightly bundled into structures resembling muscl
 
 ## Dermal implants
 
-| Implant         | Type | :d-ballistic: | :d-melee: | :d-shock: | :d-thermal: | :d-energy: | :d-toxic: | :reliability: | :size | :cost: |
-| :-------------- | :--: | :-----------: | :-------: | :-------: | ----------- | ---------- | --------- | ------------- | ----- | ------ |
-| Ballistic weave |      |               |           |           |             |            |           |               |       |        |
-| Spike weave     |      |               |           |           |             |            |           |               |       |        |
-| Blast weave     |      |               |           |           |             |            |           |               |       |        |
-| Defensive weave |      |               |           |           |             |            |           |               |       |        |
+| Implant         | Type | :ballistic: | :melee: | :shock: | :thermal: | :energy: | :toxic: | :reliability: | :size | :cost: |
+| :-------------- | :--: | :---------: | :-----: | :-----: | --------- | -------- | ------- | ------------- | ----- | ------ |
+| Ballistic weave |      |             |         |         |           |          |         |               |       |        |
+| Spike weave     |      |             |         |         |           |          |         |               |       |        |
+| Blast weave     |      |             |         |         |           |          |         |               |       |        |
+| Defensive weave |      |             |         |         |           |          |         |               |       |        |
 
 ### Ballistic weave
 

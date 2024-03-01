@@ -8,7 +8,7 @@ A cyberpunky tabletop RPG with an emphasis on verisimilitude and non-emphasis on
   - for continuous, granular advancement without percentile dice
 - six stats, similar to d20
   - DEX, AGI, CON, INT, PER, CHA
-- classless, skill-based
+- skill-based, unopinionated re: classes
   - checks are d20, roll-under
   - degrees of success/failure
   - intuitive, granular skill progression
@@ -17,6 +17,7 @@ A cyberpunky tabletop RPG with an emphasis on verisimilitude and non-emphasis on
   - crafting and modifications
   - robust, verisimilar hacking mechanic
   - stupidly-detailed firearms mechanics
+  - wounds/healing mechanics
 - custom icon font
 
 ## Icon font
@@ -30,3 +31,5 @@ There's an icon font (`arc.ttf`) living in the Unicode PUA between `u+f100` and 
 | f120 - f122 | character stats          |
 | f123 - f134 | resource + status tracks |
 | f150 - f160 | item stats               |
+
+![font repertoire](font.png)

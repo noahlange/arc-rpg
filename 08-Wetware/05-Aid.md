@@ -2,14 +2,14 @@
 
 ## Medhypos
 
-Medhypos are cocktails of fast-acting chemicals and medicinal compounds designed to preserve functional activity as long as possible until medical attention can be found.
+| Medhypo     |                            |
+| :---------- | -------------------------- |
+| Type        | Consumable, 1 AP           |
+| Effect      | Restores 1+ Health.        |
+| Skill Check | None, _+Medicineº (Stims)_ |
+| Toxic       | Yes                        |
 
-> **Time**: 1 AP  
-> **Applies**: Immediately  
-> **Persists**: Indefinitely  
-> **Effect**: Restore 1+ Health  
-> **Skill Check**: None, +Medicine (Stims)  
-> **Toxicity**: Yes
+Medhypos are cocktails of fast-acting chemicals and medicinal compounds designed to preserve functional activity as long as possible until medical attention can be found.
 
 ### Improvised
 
@@ -27,14 +27,14 @@ A military-grade medhypo designed to stabilize the victim of a gunshot, shrapnel
 
 ## Bloodfoam
 
-Bloodfoam is a liquid substance used to stop bleeding without permanently damaging nerves or tissue.
+| Bloodfoam   |                            |
+| :---------- | -------------------------- |
+| Required    | Consumable, 2 AP           |
+| Effect      | Removes 1+ Wound step.     |
+| Skill Check | None, _+Medicineº (Stims)_ |
+| Toxic       | Yes                        |
 
-> **Time**: 1 AP  
-> **Applies**: Immediately  
-> **Persists**: Indefinitely  
-> **Effect**: Remove 1+ wound dice  
-> **Skill** Check: None, +Medicine (Stims)  
-> **Toxicity**: Yes
+Bloodfoam is a liquid substance used to stop bleeding without permanently damaging nerves or tissue.
 
 ### Improvised
 
@@ -54,14 +54,14 @@ Disposable, single-use applicator of unusually concentrated bloodfoam. Apply dir
 
 ## Medkits
 
-A standard medical aid kit with bandages, rubbing alcohol, topical ointments and a simple tourniquet. Medkits take significantly more time and skill to apply than a basic medhypo, but cost much less and share none of the short-term risks associated with injectables.
+| Medkit      |                                            |
+| :---------- | ------------------------------------------ |
+| Type        | Consumable, 1+ turns (concentration)       |
+| Effect      | Restores 1+ Health, removes 1+ Wound step. |
+| Skill Check | _+Medicineº (Heal)_                        |
+| Toxic       | No                                         |
 
-> **Time**: 1+ turns, concentration  
-> **Applies**: Once completed  
-> **Persists**: Indefinitely  
-> **Effect**: Restores health, remove 1+ wound dice  
-> **Skill** Check: Medicine (Heal)  
-> **Toxicity**: No
+A standard medical aid kit with bandages, rubbing alcohol, topical ointments and a simple tourniquet. Medkits take significantly more time and skill to apply than a basic medhypo, but cost much less and share none of the short-term risks associated with injectables.
 
 ### Improvised
 
@@ -77,12 +77,12 @@ A specialized medkit for providing first aid to combat casualties. Includes a to
 
 ## Field dressings
 
-> **Time**: 2+ AP, concentration  
-> **Applies**: Once completed  
-> **Persists**: Indefinitely  
-> **Effect**: Remove 1+ wound dice  
-> **Skill** Check: Medicine (Heal)  
-> **Toxicity**: No
+| Field dressing |                                    |
+| :------------- | ---------------------------------- |
+| Type           | Consumable, 1 turn (concentration) |
+| Effect         | Removes 1+ Wound step.             |
+| Skill Check    | _+Medicineº (Heal)_                |
+| Toxic          | No                                 |
 
 ### Bandage
 
@@ -90,10 +90,11 @@ A specialized medkit for providing first aid to combat casualties. Includes a to
 
 ## Pressure
 
-The power of modern medicine—ignored entirely!
+| Field dressing |                                  |
+| :------------- | -------------------------------- |
+| Required       | Temporary, 1+ AP (concentration) |
+| Effect         | Pauses 1 wound die.              |
+| Skill Check    | No                               |
+| Toxic          | No                               |
 
-> **Time**: Concentration  
-> **Applies**: Immediately  
-> **Effect**: Pauses 1 wound die  
-> **Skill** Check: No  
-> **Toxicity**: No
+> The power of modern medicine—ignored entirely!
