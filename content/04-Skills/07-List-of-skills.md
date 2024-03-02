@@ -11,7 +11,7 @@
 | Fortitude   | CON ×2    | Carouse, Resist, Endure                |
 | Athletics   | CON + AGI | Strength, Endurance, Flexibility       |
 | Willpower   | CON + INT | Morale, Resolve, Grit                  |
-| Software    | INT ×2    | Create, Design, ???                    |
+| Software    | INT ×2    | Create, Subvert, Design                |
 | Hardware    | INT + DEX | Create, Repair, Design                 |
 | Wetware     | INT + PER | Create, Repair, Design                 |
 | Awareness   | PER ×2    | Intuition, Danger, Scan                |

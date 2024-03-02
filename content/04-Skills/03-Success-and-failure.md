@@ -22,14 +22,14 @@ Other situations will reuse a roll's degree of success for a specific purpose—
 
 When written, skill checks with non-default degree increments are postfixed with the degree sign and then the value of the degree increment.
 
-> _Example:_ Small Guns 5 º3.  
+> _Example:_ Small Guns 5º3.  
 > _Translation_: A "Small Guns" check with a target number of 5 and degree-of-success increment of 3.
 
 ## Automatic successes
 
 When faced with a skill check with a TN of 20 or more—situations where characters _literally_ cannot fail—they can “take 1” for an automatic success at +1º.
 
-This allows characters to bypass mundane tasks that present no meaningful challenge, either due to their skill or beneficial circumstances—e.g., picking a trivial lock in a familiar environment with no time limitations—
+This allows characters to bypass mundane tasks that present no meaningful challenge, either due to their skill or beneficial circumstances—e.g., picking a trivial lock in a familiar environment with no time limitations.
 
 Taking 1 on a skill check benefiting from the degree of success is ill-advised, for attack/defense rolls and more.
 

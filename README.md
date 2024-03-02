@@ -9,7 +9,7 @@ A cyberpunky tabletop RPG with an emphasis on verisimilitude and non-emphasis on
 - six stats, similar to d20
   - DEX, AGI, CON, INT, PER, CHA
 - skill-based, unopinionated re: classes
-  - checks are d20, roll-under
+  - checks are d20, roll-under (blackjack rules)
   - degrees of success/failure
   - intuitive, granular skill progression
   - specialization vs. generalization

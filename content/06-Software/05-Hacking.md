@@ -18,12 +18,12 @@ The most significant factors used to assess the power (and value) of an exploit 
 
 An exploit’s attack vector is the medium by which it’s executed. The severity reflects the level of physical proximity required by the hacker—i.e., physical access, network access, &c. The “other side of the x” mnemonic can help you visualize this.
 
-- a local vector can reach the other side of the table
-- a network vector can reach the other side of the building
-- an adjacent network vector can reach the other side of the street
-- a remote vector can reach the other side of the world
+- a **local** vector can reach the other side of the table
+- a **network vector** can reach the other side of the building
+- an **adjacent network** vector can reach the other side of the street
+- a **remote vector** can reach the other side of the world
 
-Infosec orgs often concern themselves with remote exploits, leaving vendors to fix network and local vulnerabilities.
+Infosec orgs and corps often concern themselves primarily with remote exploits, leaving vendors to fix network and local vulnerabilities.
 
 ### Complexity
 
@@ -69,7 +69,7 @@ Denial-of-service attacks (**DoS** exploits) render technology unable to perform
 
 As vulnerabilities are patched and mitigated, exploits can grow stale over time, especially against high-tech and high-value targets. More thoughtful freelancers will ensure that mission-critical components are up to date before taking on high-risk jobs to avoid being caught flat-footed with an unexpectedly-useless exploit.
 
-> Seconds from being spotted, Bobby Bobberson quickly runs a back-pocket exploit to disrupt a corpo guard's cybernetic optics. Unfortunately for Bobby, a firmware update was released last week that patched the vulnerability used by Bobby’s exploit—and even more unfortunately, the guard in question was meticulous in keeping up with his security updates.
+> _Example_: Seconds from being spotted, Bobby Bobberson quickly runs a back-pocket exploit to disrupt a corpo guard's cybernetic optics. Unfortunately for Bobby, a firmware update was released last week that patched the vulnerability used by Bobby’s exploit—and even more unfortunately, the guard in question was meticulous in keeping up with his security updates.
 
 Likewise, hackers going toe-to-toe with powerful corps must know when to play their aces and when to pocket them for another game. Prematurely exposing a zero-day when an existing hack would work can give infosecs a chance to develop mitigations for future incursions. Profilers are small databases that do the hard work of pairing devices to exploits, warning the user if they attempt to use a patched exploit against a prepared target.
 
@@ -79,7 +79,7 @@ Likewise, hackers going toe-to-toe with powerful corps must know when to play th
 
 A basic exploit is composed of two components: a payload (some action for a given type of hardware), one or more target architectures and an exploit vector (network, adjacent, local).
 
-> Bobby Bobberson’s ill-fated exploit was developed to remotely access Foobar Corp’s (architecture: **Foobar Corp Cybernetics**) cybernetic optics and temporarily blind his opponents (payload: **DoS**).
+> _Example_: Bobby Bobberson’s ill-fated exploit was developed to remotely access Foobar Corp’s (architecture: **Foobar Corp Cybernetics**) cybernetic optics and temporarily blind his opponents (payload: **DoS**).
 
 Many exploits are designed to target multiple architectures and device types using the same payload and attack vector. Over time, hackers tend to assimilate a broad variety of components into their personal “library”, allowing them to quickly assemble and deploy custom exploits without having to repeatedly consult domain experts.
 
@@ -125,6 +125,8 @@ For those with the patience and skills, developing a new exploit can be signific
 
 1. Traffic analysis, including packet sniffing and bus analysis. Bus analysis is helpful for reverse-engineering the instructions actually used to trigger behavior. Packet sniffing is used to figure out how the device communicates with other devices wirelessly.
 2. Disassembly and/or decompilation. Disassembly involves converting the raw machine code running on a device to nominally human-readable instructions in assembly language. Decompilation involves taking the generated assembly code and using specialized software, recreating it in a higher-level programming language, at which point exploits can be more easily developed.
+
+Depending on the type and quality of the product, developing an exploit may require one or more skill checks.
 
 # Using exploits
 
