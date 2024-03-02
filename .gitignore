@@ -1,2 +1,4 @@
+package-lock.json
 styles/proselint
+node_modules
 .DS_Store

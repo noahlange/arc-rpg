@@ -36,4 +36,7 @@ There's an icon font (`arc.ttf`) living in the Unicode PUA between `u+f100` and 
 
 ## Vale
 
-It uses Vale for linting. Once you've installed that and cloned the repo, run <kbd>vale sync</kbd> to download package dependencies.
+It uses Vale for linting. Once you've installed that, you can run <kbd>npm install</kbd> and it'll install the vale `proselint` package, along with `prettier`.
+
+- <kbd>npm run format</kbd>: runs prettier on everything in `content` and `docs`
+- <kbd>npm run lint</kbd>: runs Vale for text linting

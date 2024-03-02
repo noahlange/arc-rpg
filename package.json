@@ -1,0 +1,11 @@
+{
+	"name": "arc-rpg",
+	"scripts": {
+		"postinstall": "vale sync",
+		"lint": "vale content/**/*.md",
+		"format": "prettier --write '{content,docs}/**/*.md'"
+	},
+	"dependencies": {
+		"prettier": "^3.2.5"
+	}
+}
