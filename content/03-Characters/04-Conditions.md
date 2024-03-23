@@ -4,9 +4,11 @@ Over the course of gameplay, various temporary effects can help or hinder charac
 
 ## Sleep
 
+<!-- @todo: enumerate downsides/details of chemical stimulants.  -->
+
 Every character requires sufficient sleep to remain functioning at their peak potential. Every stage of :sleep: beyond 4 reduces a character's :speed: by 1.
 
-Chemical stimulants can be used to temporarily offset the effects of sleep deprivation, but have downsides of their own. Only 1 or more long phases
+Chemical stimulants can be used to temporarily offset the effects of sleep deprivation, but have downsides of their own.
 
 ## Hunger
 

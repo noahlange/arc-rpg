@@ -22,7 +22,7 @@ A cyberpunky tabletop RPG with an emphasis on verisimilitude and non-emphasis on
 
 ## Icon font
 
-There's an icon font (`arc.ttf`) living in the Unicode PUA between `u+f100` and `u+f200`, mostly derived from [game-icons](http://game-icons.net). I still need to do the appropriate attribution, &c.
+There's an icon font (`arc.ttf`) living in the Unicode PUA between `u+f100` and `u+f200`, mostly derived from mlorc, wildabeast, skoll and sbed's work on [game-icons](http://game-icons.net).
 
 | Range       | Icons                    |
 | :---------- | ------------------------ |

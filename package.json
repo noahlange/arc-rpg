@@ -3,10 +3,20 @@
 	"scripts": {
 		"postinstall": "vale sync",
 		"lint": "vale content/**/*.md",
-		"format": "prettier --write '{content,docs}/**/*.md'"
+		"format": "prettier --write '{content,docs}/**/*.md'",
+		"font": "tsx 'icons/font.ts'"
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.30",
+		"@types/svg2ttf": "^5.0.3",
+		"@types/svgicons2svgfont": "^10.0.5",
+		"tsx": "^4.7.1"
 	},
 	"dependencies": {
 		"dictionary-en": "^4.0.0",
-		"prettier": "^3.2.5"
+		"fast-glob": "^3.3.2",
+		"prettier": "^3.2.5",
+		"svg2ttf": "^6.0.3",
+		"svgicons2svgfont": "^12.0.0"
 	}
 }
