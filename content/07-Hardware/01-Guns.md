@@ -63,7 +63,7 @@ Select-fire carbines and rifles firing intermediate or full-power ammunition fal
 
 ## Shotguns
 
-Shotguns are longarms designed to fire high-caliber shells containing arbitrary payloads—typically shot, slugs or flechettes. While larger, heavier and less maneuverable than handguns and personal-defense weapons, they’re significantly more powerful and versatile within their effective range (<25m).
+Shotguns are longarms designed to fire high-caliber shells containing arbitrary payloads—typically shot, slugs, or flechettes. While larger, heavier and less maneuverable than handguns and personal-defense weapons, they’re significantly more powerful and versatile within their effective range (<25m).
 
 The majority of contemporary shotgun designs are either pump-action or self-loading. Break-action shotguns—in double-barreled, over-under or side-by-side configurations—are now under the purview of historians and trap shooters, and the few alternative operating mechanisms (lever-action, revolving) have seen little success. Crude slam-fire shotguns have, surprisingly, experienced something of a renaissance—a few companies market these so-called “guerrilla guns” on the home-defense and prepper markets.
 
@@ -109,7 +109,7 @@ In a world where guns are cars and bullets are gasoline, a clip is a gas can and
 
 ### Recoilless rifle
 
-## Feed systems
+## Feed Systems
 
 Most firearms are fed with detachable box magazines. The number of rounds carried in a single box magazine varies based on the type of weapon and caliber of ammunition. Magazines for sniper rifles and single-stack pistols may have as few as five rounds, while casket and drum magazines for automatic weapons can run from 50 to 100. While the specifics may vary based on the weapon’s manual of arms, the process of reloading a box-fed weapon is simple and well-established. Once the user wishes to replace a magazine—either after having exhausted the magazine’s ammunition supply or as a matter of preparation, they depress a magazine release button. Magazines for some weapons will fall free upon release, but others must be manually detached. In either case, the discarded magazine is replaced with a loaded one. If a live round was in the chamber before the weapon was unloaded, the user can begin firing immediately. If not, the user must manually chamber an initial round using the charging handle.
 
@@ -268,11 +268,9 @@ An artifact of civilian restrictions on weapons with discrete pistol grips, a th
 
 Many varieties of ammunition can be manufactured using a printer and small amounts of chemical and alloy feed. Particularly high-pressure ammunition and those with more exotic properties (incendiary, explosive, &c.) will usually require higher-quality equipment and feed. Firing ammunition manufactured with low-quality alloy or chemical feed increases the chance of misfires and reduces a weapon’s reliability faster.
 
-## Ammo class
+## Ammo Class
 
 The relative power of different cartridges is characterized with an “ammo class” ranging from 1 to 10. Roughly corresponding to muzzle energy, a bullet fired from a cartridge of ammo class 1 is typically light, slow-moving or both. Rounds from an AC 10 cartridge are large, powerful and/or have high muzzle velocities. There are, of course, tradeoffs—the recoil from and size of a weapon chambered for an AC 10 cartridge is unmanageable for someone attempting to fire from the shoulder. Because of the loose correspondence to projectile size, magazine capacities for low-AC rounds are typically superior to high-AC alternatives.
-
-## Ammo classes
 
 Rounds intended for handguns (pistols and revolvers) and personal defense weapons (including submachine guns and machine pistols), as well as the classic “plinking” cartridges, span ACs 1-3. Some of the most common contemporary cartridges in this range include 9×19mm Parabellum, .357 Magnum and .22 LR.
 

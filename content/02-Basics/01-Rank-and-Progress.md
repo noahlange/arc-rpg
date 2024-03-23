@@ -1,4 +1,4 @@
-# Rank & progress
+# Rank & Progress
 
 Rank & Progress (RP) scores are used to handle numbers within a limited range while still enabling constant, incremental progression. Systems with scores that max out at smaller numbers (say, 20) tend to be more ergonomic than the full range of 1%-100%, opportunities for character advancement tend to be much less frequent, albeit with greater, more dramatic effect.
 

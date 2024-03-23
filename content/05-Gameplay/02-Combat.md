@@ -4,7 +4,7 @@ Combat is a thing.
 
 ## Icons
 
-## Combat sequence
+## Combat Sequence
 
 1. Determine which combatants have the element of surprise, if any. Characters with the element of surprise roll initiative separately and take one turn before the rest join combat.
 2. Roll initiative—AGI ×2 vs. TN :d20:. Before rolling, players can appeal the DM with a relevant justification and, if successful, swap out one AGI for another stat of their choice.
@@ -17,7 +17,7 @@ Combat is a thing.
    2. characters at or below 0 :health: fall unconscious; those at or below -CON die.
 7. The next turn begins from the start of initiative order. Initiative is not re-rolled.
 
-## Order of attack
+## Order of Attack
 
 1. Pick a relevant weapon skill and roll :d20: vs. TN, optionally adding a focus bonus and accuracy penalties/bonuses. A roll of 1 is an automatic hit. A roll of 20 is an automatic failure. A failed check ends the current action.
    - If the attack roll meets or exceeds the first number of a weapon’s :failure:, a jam (though not necessarily a miss) is threatened. Roll :d20: again; if you meet or succeed the second number, your weapon jams and must be cleared before making another ranged attack.

@@ -12,7 +12,7 @@ The value of a piece of equipment, package of code or piece of knowledge itself 
 "Quality" is an abstraction; apart from price, there's no single property or collection of properties that applies universally for everything that can be qualified. Novelty, size, rarity, legality and complexity can all contribute to something's overall quality.
 
 - **Consumer** (I) products are mass-produced, inexpensive and easy to acquire—albeit flimsy and often unreliable.
-- **Professional** (II) goods are access-restricted primarily by economics. They often take the same form factor as consumer goods, but are composed of higher-quality materials with greater attention to detai.
+- **Professional** (II) goods are access-restricted primarily by economics. They often take the same form factor as consumer goods, but are composed of higher-quality materials with greater attention to detail.
 - **Industrial** (III) goods are often comparable in precision to professional ones. The major difference is in scale, both in physical space and cost. While great for smaller corporations and organizations, they're mostly unnecessary for your average individual.
 - **Advanced** (IV) quality goods are rare and expensive and often restricted for civilian purchase, either legally or in practical terms.
 

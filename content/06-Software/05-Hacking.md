@@ -4,7 +4,7 @@ In the waning years of the twenty-first century, everything—and I mean everyth
 
 Unfortunately for users, as devices gradually shift from being profit centers to liabilities, their manufacturers become increasingly uninvested in keeping them secure—and regardless of whatever government regulations and restrictions were once in place, they certainly aren’t now. Given this and the average individual’s penchant for delaying software updates as long as humanly possible, it turns out that most things out there are vulnerable in one way or another.
 
-Since most people are entirely uninteresting, few of them will catch the eye of dedicated or malevolent hackers. However, the PCs tend to deal mostly with interesting people—or at the very least, uninteresting people standing in the way of interesting things. And as it turns out, a hacker with the keys to Bob the Security Guard’s pacemaker can be Very Bad News indeed.
+Since most people are entirely uninteresting, few of them will catch the eye of dedicated or malevolent hackers. However, the PCs tend to deal mostly with interesting people—or at a minimum, uninteresting people standing in the way of interesting things. And as it turns out, a hacker with the keys to Bob the Security Guard’s pacemaker can be Very Bad News indeed.
 
 # Exploits
 
@@ -12,7 +12,7 @@ Since most people are entirely uninteresting, few of them will catch the eye of 
 
 ### Severity
 
-The most significant factors used to assess the power (and value) of an exploit are its attack vector, complexity and power. The street value of an exploit rises proportionately to these factors—as does the attention it’s likely to attract from infosec types and the speed with which mitigations are developed.
+The most significant factors used to assess the power (and value) of an exploit are its attack vector, complexity, and power. The street value of an exploit rises proportionately to these factors—as does the attention it’s likely to attract from infosec types and the speed with which mitigations are developed.
 
 ### Vector
 

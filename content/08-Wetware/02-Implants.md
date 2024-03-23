@@ -2,25 +2,34 @@
 
 ## Cosmetic
 
-## Structural
+### Cardiovascular implants
+
+| Implant    | Type |
+| :--------- | :--: |
+| Detoxifier |      |
+
+### Structural implants
+
+| Implant                | Type |
+| :--------------------- | :--: |
+| CNT bone reinforcement |      |
+| SMA muscle fibers      |      |
 
 Most implants enhancing physical performance require support structures throughout the body to help distribute skeletal stress.
 
-### Cardiovascular implants
-
-#### Detoxer
-
 ### Musculoskeletal implants
 
-Bones and muscles are popular targets for artificial augmentation and grant significant improvements in strength, speed and durability. Carefully-designed bone and muscle implants can tightly integrate with the surrounding muscle and bone. These are virtually undetectable, but are vastly more expensive than crude (though no less effective) removal and replacement of existing tissues.
-
-#### SMA fiber muscles
-
-Shape-memory alloy wires can be tightly bundled into structures resembling muscle fibers. Artificial muscles composed of these fibers demonstrate significantly improved strength and endurance. Without skeletal reinforcement, they also have a tendency to fracture bone during extreme stress.
+Bones and muscles are popular targets for artificial augmentation and grant significant improvements in strength, speed, and durability. Carefully-designed bone and muscle implants can integrate subtly with the surrounding muscle and bone. These can be virtually undetectable, but are vastly more expensive (though no less effective) than wholesale removal and replacement of existing tissue.
 
 ### CNT bone reinforcement
 
-## Dermal implants
+The reinforcement of bones with a lattice-like structure composed of carbon nanotubes provides a stable foundation for muscular augmentation.
+
+#### SMA fiber muscles
+
+Wires composed of shape-memory alloys can be tightly bundled into structures resembling muscle fibers. Compared to ordinary muscles, artificial muscles composed of these fibers demonstrate significantly improved strength and endurance. Without skeletal reinforcement, they also have a tendency to fracture bone during extreme stress.
+
+### Dermal implants
 
 | Implant         | Type | :ballistic: | :melee: | :shock: | :thermal: | :energy: | :toxic: | :reliability: | :size | :cost: |
 | :-------------- | :--: | :---------: | :-----: | :-----: | --------- | -------- | ------- | ------------- | ----- | ------ |
@@ -28,6 +37,7 @@ Shape-memory alloy wires can be tightly bundled into structures resembling muscl
 | Spike weave     |      |             |         |         |           |          |         |               |       |        |
 | Blast weave     |      |             |         |         |           |          |         |               |       |        |
 | Defensive weave |      |             |         |         |           |          |         |               |       |        |
+| Hazard weave    |      |             |         |         |           |          |         |               |       |        |
 
 ### Ballistic weave
 
@@ -43,10 +53,14 @@ Successful defense against shockwaves and overpressure effects relies on differe
 
 ### Defensive weave
 
-Most general-purpose defensive weaves provide decent protection against both ballistic, piercing and—to a lesser degree, shock damage—but are more costly and less effective than dedicated weaves with the same surface area.
+Most general-purpose defensive weaves provide decent protection against both ballistic, piercing and (to a lesser degree) shock damage—but are more costly and less effective than dedicated weaves with the same surface area.
+
+### Hazard weave
+
+Weaves composed of some more exotic compounds can provide decent protection against thermal, energy and toxic damage.
 
 ## Prostheses
 
-## Digitigrade prosthesis
+### Digitigrade prosthesis
 
-The normal human gait involves walking on the bottom surface of the feet. A digitigrade prosthesis replaces the leg and foot below the knee with one more closely resembling the lower limbs of a cat or dog, where the toes serve as the surface contact, and the heel is suspended at or slightly behind the center of gravity. Due to the reduced surface contact, they also tend to be quieter.
+The normal human gait involves walking on the bottom surface of the feet. A digitigrade prosthesis replaces the leg and foot below the knee with one more closely resembling the lower limbs of a cat or dog, where the toes serve as the surface contact and the heel is suspended at or slightly behind the center of gravity. The reduced surface contact enables quieter movement.

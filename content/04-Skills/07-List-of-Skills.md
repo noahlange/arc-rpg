@@ -28,7 +28,7 @@
 
 ### Small Guns
 
-The Small Guns (DEX×2) skill measures a character’s aptitude with conventional small arms—handguns, rifles and shotguns.
+The Small Guns (DEX×2) skill measures a character’s aptitude with conventional small arms—handguns, rifles, and shotguns.
 
 #### Handguns
 

@@ -10,9 +10,9 @@ A success also allows a character to take :d10: for any actions or skills involv
 
 > Example: Francis (AGI 3, DEX 4) rolls vs. TN 7, failing with 8. Bacon (AGI 6, INT 6) rolls vs. TN 12.
 
-## Alternative stats
+## Alternative Stats
 
-Depending on the situation, characters may be able swap out one AGI stat for a different one—usually, INT, PER or CHA. For example:
+Depending on the situation (and at the discretion of the DM), characters may be able swap out one AGI stat for a different one—typically, INT, PER, or CHA. For example:
 
 - **CHA**: sense that a conversation has taken a hostile turn before any violence occurs
 - **PER**: notice something out of the ordinary

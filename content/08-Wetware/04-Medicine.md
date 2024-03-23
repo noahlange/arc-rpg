@@ -1,12 +1,31 @@
 # Medicine
 
-## Drugs
+## Radiation
+
+| Name             | Type            |
+| ---------------- | --------------- |
+| Amifostine       | Radioprotectant |
+| Ex-Rad           | Radioprotectant |
+| Acetylcysteine   | Radioprotectant |
+| Cystamine        | Radioprotectant |
+| Tocotrienol      | Radioprotectant |
+| Filgastrim       | Countermeasure  |
+| Pegfilgrastim    | Countermeasure  |
+| Sargramostim     | Countermeasure  |
+| Entolimod        | Countermeasure  |
+| Penetic acid     | Countermeasure  |
+| Prussian blue    | Countermeasure  |
+| Potassium iodide | Countermeasure  |
 
 ### Antibiotics
 
-### Painkillers
+| Name              | Type           |
+| ----------------- | -------------- |
+| Chlortetracycline |                |
+| Sulfadimethoxine  |                |
+| Doxycycline       | Broad-spectrum |
 
-### Radioprotectant
+### Painkillers
 
 ### Stimulants
 
@@ -16,6 +35,5 @@
 
 - antibiotic: chlortetracycline, sulfadimethoxine
 - painkiller: diclofenac, metamizole
-- radioprotectant: acetylcysteine, amifostine, androstenediol, cystamine, DTPA (penetic acid), Entolimod, filgrastim, potassium iodide, Prussian blue, tocotrienol
 - stimulants: epinephrine
-- steroids
+- steroids - androstenediol

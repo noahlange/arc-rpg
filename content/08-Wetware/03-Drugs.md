@@ -7,7 +7,7 @@ Many street drugs are derived from natural sources and cooked using relatively p
 | Name        |   Type    | :toxicity: | Effects                            | Cost |
 | :---------- | :-------: | :--------: | :--------------------------------- | :--: |
 | Spark       | Nootropic |            | Cognitive stimulation, creativity. |      |
-| Black Heart |           |            | Aggression                         |      |
+| Black Heart |           |            | Aggression.                        |      |
 | Stretch     |           |            | Time dilation.                     |      |
 | Brawn       |           |            |                                    |      |
 | Clutch      |           |            |                                    |      |

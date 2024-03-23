@@ -38,7 +38,7 @@ Substituting high-quality materials for lower-quality ones will grant improved r
 
 Large amounts of low-quality feed can be converted into smaller quantities of high-quality feedstock using a refiner. Cheap refiners and unskilled users will typically waste feed, producing smaller amounts of feedstock than a skilled user with a quality refiner.
 
-[TODO: CONVERSION RATES]
+[@TODO: CONVERSION RATES]
 
 ## Schematics
 

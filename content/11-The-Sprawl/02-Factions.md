@@ -12,7 +12,7 @@ This faction isn’t a single organization, but a loose confederation of multipl
 
 ### Sovereign
 
-This faction holds de facto jurisdiction over law and policy. This includes most formal governments, but some of the largest megacorps act as states unto themselves, fielding their own private security forces and maintaining formal policies of conduct and discipline.
+This faction holds _de facto_ jurisdiction over law and policy. This includes most formal governments, but some of the largest megacorps act as states unto themselves, fielding their own private security forces and maintaining formal policies of conduct and discipline.
 
 ## Types
 

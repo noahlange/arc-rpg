@@ -18,6 +18,6 @@ Every long phase is considered either active or sedentary. Every sedentary phase
 
 ## Toxicity
 
-Using fast-acting med hypos, taking drugs, injecting stims and consuming various psychoactive substances can add flood your system with toxic byproducts. Every rank in :toxicity: reduces your maximum :health: by 1, and—if you’re already at full health, your current :health: as well.
+Using fast-acting med hypos, taking drugs, injecting stims and consuming various psychoactive substances can add flood your system with toxic byproducts. Every rank in :toxicity: reduces a character's maximum :health: by 1, and—if already at full :health:, their current :health: as well.
 
-Most basic medical facilities, as well as some of the more expensive private autodocs, have the necessary equipment to reduce blood toxicity, though particularly severe cases may require more than one treatment before being resolved.
+Most basic medical facilities, as well as some of the more expensive private autodocs, have the necessary equipment to reduce blood toxicity, though particularly severe cases may require more than one treatment before they can be completely resolved.

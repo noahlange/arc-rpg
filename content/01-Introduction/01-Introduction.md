@@ -14,6 +14,6 @@ Arc is a cyberpunk game.
 
 Arc is not a comprehensive toolkit for creating a world within which to run a cyberpunk RPG or missions to run in them, nor does it make any attempt to serve as one.
 
-To put it bluntly, it doesn’t make sense to put time or energy into putting worldbuilding or sandbox tools here, because Kevin Crawford expertise and sheer skill makes Cities Without Number vastly superior to anything I could possibly come up with.
+To put it bluntly, it doesn’t make sense to put time or energy into putting world-building or sandbox tools here, because Kevin Crawford expertise and sheer skill makes Cities Without Number vastly superior to anything I could possibly come up with.
 
 So go buy that and use the second half to create your world. And when you’re done with that, use these rules to play instead.

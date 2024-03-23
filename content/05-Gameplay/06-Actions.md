@@ -4,9 +4,9 @@
 
 Characters can spend additional AP or :speed: to line up a shot before making an attack action in hopes of improving their odds of success. Each AP spent aiming adds +1 to the TN for the attack's skill roll.
 
-Without aiming, most ranged attack rolls will take a penalty—this penalty is referred to a the weapon's **Base Accuracy**. Heavier and bulkier weapons have lower base accuracies than small and handier ones. The maximum bonus that can be gained from aiming the weapon is its **Max. Accuracy.**
+Without aiming, most ranged attack rolls will take a penalty—this penalty is referred to a the weapon's **Base Accuracy**. Heavier and bulkier weapons have lower base accuracies than small and handier ones. The maximum bonus that can be gained from aiming the weapon is its **Maximum Accuracy.**
 
-Weapons with low Base Accuracy typically have higher Max, Accuracy and benefit the most from aimed attacks. Weapons with low or zero Base Accuracy penalties usually have lower potential for Max. Accuracy.
+Weapons with low Base Accuracy typically have higher Maximum Accuracy bonsues and benefit the most from aimed attacks. Weapons with low or zero Base Accuracy penalties usually have lower potential for Maximum Accuracy.
 
 These properties are indicated by each weapon's :accuracy: and written as the two numbers by a slash—base accuracy, and max. accuracy.
 
@@ -16,13 +16,13 @@ These properties are indicated by each weapon's :accuracy: and written as the tw
 
 ### Overwatch
 
-A character with unobstructed access to a sightline can declare an **Overwatch** action and commit any number of AP to a single attack reaction triggered once a target moves across the sightline.
+A character with unobstructed access to a line of sight can declare an **Overwatch** action and commit any number of AP to a single attack reaction triggered once a target moves across the line of sight.
 
 Once the committed AP are exhausted, the Overwatch effect ends. An Overwatch action can be taken with a ranged or melee attack.
 
 ### Suppress
 
-A character with a ranged weapon and unobstructed access to a sightline can declare a **Suppress** action and commit a number of AP (up to or including the weapon's :rof:) to a single attack roll, ending their turn. If the attack succeeds, any opponent who moves across the sightline is subject to an unopposed attack.
+A character with a ranged weapon and unobstructed access to a line of sight can declare a **Suppress** action and commit a number of AP (up to or including the weapon's :rof:) to a single attack roll, ending their turn. If the attack succeeds, any opponent who moves across the line of sight is subject to an unopposed attack.
 
 Each attack reduces the pool of committed AP by 1. Upon reaching 0, the Suppress effect ends.
 

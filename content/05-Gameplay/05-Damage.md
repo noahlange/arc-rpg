@@ -1,17 +1,17 @@
 # Damage
 
-## Damage types
+## Damage Types
 
-There are six forms of damage that can be encountered during gameplay. The three physical damage types are Ballistic (:ballistic:), Melee (:melee:) and Shock (:shock:) and are typically dealt by attacks from people, attacks and gravity. The three environmental damage types are Energy (:energy:), Thermal (:thermal:) and Toxic (:toxic:), usually found as hazards or natural forces.
+Characters can encounter six different forms of damage during gameplay. The three physical damage types are Ballistic (:ballistic:), Melee (:melee:) and Shock (:shock:) and are typically dealt by attacks from people, attacks, and gravity. The three environmental damage types are Energy (:energy:), Thermal (:thermal:) and Toxic (:toxic:), usually found as hazards or natural forces.
 
 | Type                  | Description                             | Sources                                          |
 | --------------------- | --------------------------------------- | :----------------------------------------------- |
 | :ballistic: Ballistic | High-velocity piercing/slashing damage. | Bullets, shrapnel, fragmentation.                |
 | :melee: Melee         | Low-velocity piercing/slashing damage.  | Knives, throwing weapons, teeth and claws.       |
 | :shock: Shock         | Explosive or bludgeoning damage.        | Concussion grenades, blunt-force attacks.        |
-| :energy: Energy       | Electrical/radiation damage.            | Electricity, radiation, directed-energy weapons. |
+| :energy: Energy       | Electrical and radiation damage.        | Electricity, radiation, directed-energy weapons. |
 | :thermal: Thermal     | Burning and freezing damage.            | Fire, extreme heat and cold.                     |
-| :toxic: Toxic         | Damage from toxic materials.            | Acids, poisons, hazardous chemicals.             |
+| :toxic: Toxic         | Chemical or toxic damage.               | Acids, poisons, hazardous chemicals.             |
 
 ### Physical damage
 
@@ -47,11 +47,11 @@ Thick clothing may offer up to :d6: protection. Standard military-issue body arm
 
 Armor between :d12: and :d12: can be acquired with little difficulty but is too cumbersome for everyday wear. While greater protection is available—typically in the form of a full-body armored suit or armor mounted to a powered exoskeleton—it’s incredibly cumbersome and will often prevent the bearer from completing even most mundane tasks.
 
-## Damage threshold
+## Damage Threshold
 
 The sum of a character’s armor steps is their Damage Threshold (DT), or :armor:. Properly-constructed armor can withstand any number of hits below its :armor:. These “absorbed” attacks have no effect on the armor’s integrity or ability to offer protection in the future—if you attack a tank head-on with a 9mm submachine gun, you’re going to run out of bullets long before the tank’s armor gives up and heads home.
 
-## Dealing damage
+## Dealing Damage
 
 When dealing damage, the primary consideration is whether or not the target is armored against the relevant damage type. So long as the target has armor rated against the damage type and the armor has durability steps remaining, they are considered armored.
 
@@ -87,7 +87,7 @@ Any attack that inflicts damage meeting or exceeding a character’s maximum :he
 
 > Boop Bop (18 :health:, 20 :armor: vs. :ballistic:) takes a solid hit from a .50 caliber machine gun (5d12 :ballistic:). The shot inflicts 45 points of damage. His 20 :armor: reduces the total damage incurred from 45 to 25, but because the remaining damage exceeds his maximum :health:, he’s killed instantly.
 
-## Taking damage
+## Taking Damage
 
 Even inevitably-fatal wounds may not instantly render an opponent unconscious. If a character has sustained a wound that reduces their :health: below 0, they're still able to finish their turn before succumbing.
 
@@ -119,7 +119,7 @@ The effects of most aid items are persistent, positive effects lasting beyond th
 
 #### Health
 
-Given that a character’s health directly corresponds to their ability to continue fighting, the ability to restore it is a valuable trait—independently of its long-term efficacy or duration. Medhypos and medpacks will restore health upon application.
+Given that a character’s health directly corresponds to their ability to continue fighting, the ability to restore it is a valuable trait—independently of its long-term efficacy or duration. Medhypos and medkits will restore health upon application.
 
 #### Wounds
 
